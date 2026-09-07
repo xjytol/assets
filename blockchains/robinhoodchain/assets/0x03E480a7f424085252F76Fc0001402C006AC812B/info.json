@@ -3,18 +3,9 @@
     "type": "ROBINHOODCHAIN",
     "symbol": "APE",
     "decimals": 18,
-    "description": "Ape Pad is a launchpad on Robinhood Chain where every token opens into a permanently locked Uniswap v4 pool priced in tokenized AMC.",
+    "description": "Ape Pad trades against tokenized AMC in a permanently locked Uniswap v4 pool on Robinhood Chain.",
     "website": "https://launch.apeclub.lol",
     "explorer": "https://robinhoodchain.blockscout.com/token/0x03E480a7f424085252F76Fc0001402C006AC812B",
     "status": "active",
-    "id": "0x03E480a7f424085252F76Fc0001402C006AC812B",
-    "links": [
-        {
-            "name": "x",
-            "url": "https://x.com/ApeonRH"
-        }
-    ],
-    "tags": [
-        "memes"
-    ]
+    "id": "0x03E480a7f424085252F76Fc0001402C006AC812B"
 }
